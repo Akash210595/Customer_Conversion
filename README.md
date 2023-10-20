@@ -25,7 +25,6 @@ campaign and for this client
 campaign (categorical:
 "unknown","other","failure","success")
 
-### The model must be
-analysed to find the important factors that contribute towards
-the conversion rate. F1-Score must be used as a metric to
+### Requirements:
+The model must be analysed to find the important factors that contribute towards the conversion rate. F1-Score must be used as a metric to
 evaluate the performance of the models
